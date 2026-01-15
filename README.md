@@ -1,7 +1,14 @@
 # Design
+
 ## Figma
-PickU Application 
+HCI PickU Application 
+
+  [คัดเลือก Idea.pdf](https://github.com/user-attachments/files/24642449/Idea.pdf)
+  
+  [User Journey Map.pdf](https://github.com/user-attachments/files/24642308/User.Journey.Map.pdf)
+  
   [Wireframe](https://www.figma.com/design/vYSAcI9LLomF2Fiy6fpW5e/Wireframe?node-id=0-1&t=Y8t17EkTYMHwyJ4R-1)
+  
   [Prototype](https://www.figma.com/design/gwdNdufGMpBjwD07HMVNUL/HCI_project?node-id=0-1&t=OqvBfrTl6r2oI5SI-1)
 
 OOSD Petrol Station Application
